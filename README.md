@@ -23,8 +23,11 @@ The main objective of this project is to develop a system that can detect early 
 🛠 Technologies Used
 
 Python
+
 TensorFlow
+
 SQL
+
 Sensor Integration
 
 ⚙️ Working
@@ -36,8 +39,11 @@ The system continuously monitors the user's head movement and pulse rate using s
 During testing, the system successfully detected drowsiness conditions and triggered alerts, helping reduce drowsiness-related incidents by approximately 35%.
 
 🚀 Future Improvements
+
 📷 Integration of camera-based eye detection
+
 🌐 IoT-based real-time monitoring
+
 📱 Mobile application for alerts and monitoring
 
 🤖 Improved AI model accuracy for better detection
