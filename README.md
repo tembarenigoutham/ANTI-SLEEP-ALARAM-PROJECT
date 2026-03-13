@@ -1,5 +1,4 @@
 🚨 Anti-Sleep Alarm Project
-📌 Overview
 
 The Anti-Sleep Alarm Project is a safety-focused system designed to detect drowsiness in drivers and workers and trigger alerts to prevent accidents. The system monitors head tilt and pulse signals using sensors and generates real-time alerts when signs of fatigue or sleep are detected.
 
@@ -24,11 +23,8 @@ The main objective of this project is to develop a system that can detect early 
 🛠 Technologies Used
 
 Python
-
 TensorFlow
-
 SQL
-
 Sensor Integration
 
 ⚙️ Working
@@ -40,11 +36,8 @@ The system continuously monitors the user's head movement and pulse rate using s
 During testing, the system successfully detected drowsiness conditions and triggered alerts, helping reduce drowsiness-related incidents by approximately 35%.
 
 🚀 Future Improvements
-
 📷 Integration of camera-based eye detection
-
 🌐 IoT-based real-time monitoring
-
 📱 Mobile application for alerts and monitoring
 
 🤖 Improved AI model accuracy for better detection
